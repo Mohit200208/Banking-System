@@ -108,3 +108,4 @@ cd banking-ledger-system
 
 cd backend
 npm install
+Project maintained by Mohit Yadav
